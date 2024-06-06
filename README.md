@@ -11,7 +11,7 @@ A responsive weather application built with HTML, CSS, JavaScript, and a public 
 ![Screenshot (432)](https://github.com/sonurana0206/WeatherAppUsingJsAPI/assets/158328993/3deddea1-14b1-4678-9e03-e340ed534e20)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/weather-app.git](https://github.com/sonurana0206/WeatherAppUsingJsAPI.git`
+1. Clone the repository: `https://github.com/sonurana0206/WeatherAppUsingJsAPI.git`
 2. Open `index.html` in your browser to view the app.
 
 ## Usage
